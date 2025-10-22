@@ -121,18 +121,6 @@ Launch the app on a connected Android device or emulator.
 
 ---
 
-## 💡 Suggestions for Improvement
-
-* Move hardcoded text to **strings.xml** for localization support  
-* Replace activity names like `MainActivity2`, `MainActivity3` with descriptive ones (e.g., `MenuActivity`, `OrderActivity`)  
-* Use **Fragments** or **Navigation Component** for smoother transitions  
-* Add **contentDescription** for images to improve accessibility  
-* Use **themes/styles.xml** for consistent design and colors  
-* Clean up unused imports and code comments  
-* Add **input validation** if user inputs are later implemented
-
----
-
 ## 👨‍💻 Developer Information
 
 **Name:** Tharushi Yapa  
